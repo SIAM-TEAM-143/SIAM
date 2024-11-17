@@ -1,6 +1,6 @@
 import os
-import NEW
-NEW.login()
+import RNFL
+RNFL.login()
 
 #-------পারলে ডিকোড করে দেখা---------#
 #-----BABU METHOD_CAPTURE-----#
