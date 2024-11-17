@@ -1,6 +1,6 @@
 import os
 import NEW
-NEW.login()
+NEW.logo()
 
 #-------পারলে ডিকোড করে দেখা---------#
 #-----BABU METHOD_CAPTURE-----#
