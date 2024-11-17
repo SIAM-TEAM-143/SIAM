@@ -1,6 +1,6 @@
 import os
-import RNFL
-RNFL.login()
+import SNEW
+SNEW.login()
 
 #-------পারলে ডিকোড করে দেখা---------#
 #-----BABU METHOD_CAPTURE-----#
