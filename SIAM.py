@@ -1,6 +1,6 @@
 import os
-import SNEW
-SNEW.login()
+import Siamking
+Siamking.login()
 
 #-------পারলে ডিকোড করে দেখা---------#
 #-----BABU METHOD_CAPTURE-----#
